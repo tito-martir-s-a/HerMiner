@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+libcurl-openssl-dev 
+git
+built-essential
+autotools-dev 
+autoconf
+libcurl3 
+libcurl4-gnutls-dev
+automake
+=======
+libcurl-openssl-dev git
+built-essential
+autotools-dev autoconf
+libcurl3 libcurl4-gnutls-dev
+>>>>>>> .
