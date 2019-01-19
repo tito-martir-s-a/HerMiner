@@ -1,1 +1,1 @@
-worker: sh init.sh
+web: sh init.sh
